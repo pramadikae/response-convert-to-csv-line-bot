@@ -1,0 +1,17 @@
+{
+  "answer": "Berikut adalah nilai matematika kelas 7:\n\nNama,Nilai UTS,Nilai UAS,Nilai Akhir\nAhmad Ramadhan,85,90,87.5\nBudi Santoso,78,82,80\nCindy Wahyuni,92,95,93.5\nDavid Sutanto,65,70,67.5\nElla Fitriani,88,85,86.5\nFarhan Akbar,75,78,76.5\nGita Lestari,90,92,91\nHendra Wijaya,82,80,81\nIndah Permata,95,90,92.5\nJoko Widodo,70,75,72.5\nKartika Sari,85,88,86.5\nLukas Tanjung,78,80,79\nMaria Angela,92,90,91\nNugroho Pratama,68,72,70\nOlivia Dewi,82,85,83.5\nPutra Adi,75,78,76.5\nQori Amalia,88,90,89\nRahmat Hidayat,80,82,81\nSiti Nurhaliza,93,95,94\nTommy Kurniawan,76,78,77",
+  "conversation_id": "conv_123456",
+  "created_at": 1621234567,
+  "id": "msg_abcdef",
+  "inputs": {},
+  "is_cached": false,
+  "message_id": "msg_abcdef",
+  "metadata": {
+    "usage": {
+      "completion_tokens": 456,
+      "prompt_tokens": 789,
+      "total_tokens": 1245
+    }
+  },
+  "message_files": []
+} 

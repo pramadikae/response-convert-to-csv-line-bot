@@ -1,0 +1,45 @@
+# Python virtual environments
+venv/
+env/
+ENV/
+.env
+
+# Python byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+
+# Credentials and sensitive data
+credentials*.json
+!credentials_template.json
+.env
+!env.template
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/ 

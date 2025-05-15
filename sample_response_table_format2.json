@@ -1,0 +1,17 @@
+{
+  "answer": "Tentu! Berikut contoh daftar nilai matematika untuk siswa kelas 7.\n\nNilai matematika terdiri dari beberapa komponen penilaian: Ulangan Harian (UH), Tugas, UTS (Ujian Tengah Semester), dan UAS (Ujian Akhir Semester). Nilai Akhir dihitung dengan bobot sebagai berikut:\n\nUH: 20%\nTugas: 20%\nUTS: 30%\nUAS: 30%\n\nDaftar Nilai Matematika Kelas 7\n\nNo  Nama Siswa  UH  Tugas  UTS  UAS  Nilai Akhir\n1   Andi        80  85     78   90   83.9\n2   Budi        75  70     72   80   74.9\n3   Clara       90  88     85   87   87.4\n4   Deni        65  75     70   73   71.1\n5   Eko         85  80     82   85   83.1\n6   Fira        90  92     88   90   89.8\n7   Gita        78  75     80   82   79.2\n8   Hadi        70  68     75   72   71.7\n9   Indah       95  90     92   95   93.1\n10  Joko        82  85     80   83   82.3\n\nBerdasarkan daftar nilai tersebut, Indah memiliki nilai tertinggi dengan nilai akhir 93.1, sedangkan Deni memiliki nilai terendah dengan nilai akhir 71.1. Rata-rata nilai kelas adalah 81.65.",
+  "conversation_id": "conv_123456",
+  "created_at": 1621234567,
+  "id": "msg_abcdef",
+  "inputs": {},
+  "is_cached": false,
+  "message_id": "msg_abcdef",
+  "metadata": {
+    "usage": {
+      "completion_tokens": 456,
+      "prompt_tokens": 789,
+      "total_tokens": 1245
+    }
+  },
+  "message_files": []
+} 
